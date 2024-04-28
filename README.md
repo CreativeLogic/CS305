@@ -1,6 +1,8 @@
 # CS305
 CS 305 Artemis Financial Vulnerability Assessment Report 
 
+Arnold Limberg
+
 ![Artemis Financial Logo](https://i.ibb.co/y4BRQLX/image.png)
 
 
