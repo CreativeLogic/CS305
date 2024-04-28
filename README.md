@@ -1,7 +1,7 @@
 # CS305
 CS 305 Artemis Financial Vulnerability Assessment Report 
 
-![Artemis Financial Logo](https://i.ibb.co/y4BRQLX/image.png "Artemis Financial Logo")
+![Artemis Financial Logo](https://i.ibb.co/y4BRQLX/image.png)
 
 
 # Artemis Financial - Security Enhancement Project
